@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "3147409237",
+    "project_id": "lap7thinh",
+    "storage_bucket": "lap7thinh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3147409237:android:001f58156059f3170c71dc",
+        "android_client_info": {
+          "package_name": "com.example.lap7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3147409237-qq46cf67pn6ac8svb4gv5qr6rgf2pgce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lap7",
+            "certificate_hash": "19c98635323a2a35eeefc1ed4309d2fa488294ea"
+          }
+        },
+        {
+          "client_id": "3147409237-eu7r04domva95qt8agm4hahfosi4pn5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xPZNKLqEIaOdhIvdK9IsE2W4Wpd2F5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3147409237-eu7r04domva95qt8agm4hahfosi4pn5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3147409237:android:04b7b25fcc793e910c71dc",
+        "android_client_info": {
+          "package_name": "com.thinh.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3147409237-eu7r04domva95qt8agm4hahfosi4pn5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xPZNKLqEIaOdhIvdK9IsE2W4Wpd2F5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3147409237-eu7r04domva95qt8agm4hahfosi4pn5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3147409237:android:9871655ca0449fd80c71dc",
+        "android_client_info": {
+          "package_name": "com.thinhnb.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3147409237-eu7r04domva95qt8agm4hahfosi4pn5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xPZNKLqEIaOdhIvdK9IsE2W4Wpd2F5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3147409237-eu7r04domva95qt8agm4hahfosi4pn5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
